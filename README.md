@@ -1,22 +1,22 @@
 ![image](https://user-images.githubusercontent.com/14047156/209457416-be61bb65-f634-464e-b015-50c3ad642d59.png)
 
 
-- 👋 Hi, I’m @thomasm1
+- I’m @thomasm1
 
 
-- 👀 I’m interested in ... NodeJS & Java & Typescript - Angular full-stack projects & API's
+- 👀 I'm interested in Java/TS/Solidity apps that expand the App/Dapp & API's
 
-- 🌱 I’m currently learning ... Kubernetes & AWS EKS
+- 🌱 I’m currently pursuing AWS Data Engineer Associate & Microsoft SQL Server Certifications for February 2024.
 
-- 💞️ I’m looking to collaborate on ... WEB 3 and anything Crypto!~ 
+- ✨ My projects explore  Kubernetes & AWS EKS with lots of looks to WEB 3 and anything Crypto!~ 
 
 - 📫 How to reach me ...
  
-thomasm1/thomasm1 thank you for visiting!!    ✨ <pre>        
+thomasm1/thomasm1 thank you for visiting!!      ✨     
                                                   __________________
                                                       ▂▄▄▓▄▄▂
-                                                      ◢◤█▀████▄▄▄▄▄▄◢◤
+                                                      ◢◤█▀████▄▄▄▄▄▄◢◤      
                                                       █  🦄 █▀▀▀▀▀▀╬
                                                       ◥█████◤
                                                       ══╩══╩═ 
-   ✨  </pre>
+ 
